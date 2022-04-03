@@ -1,5 +1,5 @@
 # Desarrollo de la aplicación Elije tu propia aventura:
-### codesandbox https://codesandbox.io/s/nervous-herschel-j7c9j?file=/src/App.js
+### codesandbox  https://codesandbox.io/s/goofy-haibt-s4jwrz?file=/src/App.js
 
 # Primer evaluación entregable de Front-end III para C.T.D.
 
@@ -68,6 +68,6 @@ Entrega
 
 La app se tiene que entregar en un repositorio de GitHub, mediante un formulario que se te entregará posteriormente.
 
-Tendrás tiempo hasta el viernes 10, 23:59 hs Argentina, 21:59 hs Colombia.
+Tendrás tiempo hasta el  Domingo 4, 23:59 hs Argentina, 21:59 hs Colombia.
 
 Cualquier modificación en el repositorio de GitHub, posterior al tiempo límite establecido, no será evaluada.
